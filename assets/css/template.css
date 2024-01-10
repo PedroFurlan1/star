@@ -34,7 +34,9 @@
     border-radius: 3px;
 }
 
-
+body {
+    overflow: hidden;
+}
 
 /* Header */
 
